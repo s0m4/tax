@@ -1,0 +1,364 @@
+# Webalizer V2.01-10 Incremental Data - 02/23/2014 05:10:01
+2014 2 23 5 10 1
+469 437 29 38 18 23 2004384 166 29 0 0 0
+1 26 71 1 23
+202 190 904508 11 86 10 0 0
+1 1 2808 1 1 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+73 65 208902 6 17 6 0 0
+167 156 733137 11 58 11 0 0
+26 25 155029 1 4 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+27 26 157837 5 0 0
+8 8 29126 1 0 0
+51 48 197630 20 0 0
+7 7 5617 7 0 0
+10 10 31993 3 0 0
+0 0 0 0 0 0
+36 35 202121 13 0 0
+70 67 300664 25 0 0
+90 84 469985 40 0 0
+31 30 95517 8 0 0
+16 14 36297 14 0 0
+41 37 183888 10 0 0
+45 39 123256 11 0 0
+33 29 165008 7 0 0
+4 3 5445 2 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0
+0
+0
+437
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+31
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/c_nilai
+0 16 0 18856 1 0 0 0
+/
+0 30 0 49647 24 0 0 0
+/images/ikon/jadwal_pendadaran.png
+1 10 0 106837 0 0 0 0
+/images/favicon.png
+1 19 0 87311 0 0 0 0
+/images/bg.png
+1 21 0 70247 0 0 0 0
+/c_pilihlokasi
+0 4 0 4820 0 0 0 0
+/images/ikon/proses_usulan.png
+1 8 0 75068 0 0 0 0
+/foto/201020087.jpg
+1 1 0 5018 0 0 0 0
+/css/login.css
+0 24 0 32983 0 0 0 0
+/images/ikon/manajemen_mahasiswa.png
+1 8 0 83877 0 0 0 0
+/images/login-body.png
+1 21 0 10329 0 0 0 0
+/c_login
+0 21 0 28352 3 0 0 0
+/c_lokasikkn
+0 4 0 5322 0 0 0 0
+/c_jadwal
+0 5 0 6008 0 0 0 0
+/images/ikon/mahasiswa_bimbingan.png
+1 8 0 87804 0 0 0 0
+/c_pengumuman
+0 8 0 10825 0 0 0 0
+/images/login-bottom.png
+1 21 0 70933 0 0 0 0
+/images/background.gif
+1 8 0 15010 0 0 0 0
+/c_lokasikkn/batal/TWpNek1nPT1zMW00azR3XzIwMTI
+0 1 0 713 1 0 0 0
+/images/login-top.png
+1 21 0 66835 0 0 0 0
+/css/style.css
+0 8 0 17376 0 0 0 0
+/image/komputer.gif
+1 8 0 132998 0 0 0 0
+/images/list.gif
+1 7 0 4053 0 0 0 0
+/c_welcome
+0 21 0 17825 0 0 0 0
+/verifylogin/logout
+0 5 0 5037 0 0 0 0
+/images/login_portalkkn.png
+1 21 0 233513 0 0 0 0
+/c_agenda
+0 7 0 8748 0 0 0 0
+/images/ikon/gedung.png
+1 8 0 77813 0 0 0 0
+/images/ikon/set_jadwal.png
+1 9 0 97970 0 0 0 0
+/images/logo_umk.png
+1 9 0 154947 0 0 0 0
+/images/ikon/verifikasi_usulan.png
+1 10 0 120048 0 0 0 0
+/foto/kuota_kkn.png
+1 4 0 141360 0 0 0 0
+/c_kelompok
+0 9 0 10870 0 0 0 0
+/c_profil
+0 10 0 16259 0 0 0 0
+/verifylogin
+0 25 0 20561 0 0 0 0
+/foto/201052031.jpg
+1 1 0 4255 0 0 0 0
+/images/ikon/pengumuman.png
+1 9 0 72114 0 0 0 0
+/images/footer_portal.gif
+1 8 0 4666 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+82.145.208.163
+0 8 8 29124 1 1393085912
+- 0 0
+114.79.17.64
+0 7 7 24542 1 1392984263
+- 0 0
+202.67.41.15
+0 37 35 248669 1 1393076519
+- 0 0
+202.67.41.23
+0 7 7 24563 1 1392991518
+- 0 0
+202.67.41.26
+0 28 26 148398 1 1393088151
+- 0 0
+82.145.216.120
+0 3 3 7608 1 1391265766
+- 0 0
+66.249.64.1
+0 1 1 1375 0 0
+- 0 0
+202.67.41.7
+0 30 28 159610 1 1391239293
+- 0 0
+174.129.228.67
+0 2 1 2413 1 1392982755
+- 0 0
+180.76.5.213
+0 1 1 1598 1 1393098243
+- 0 0
+114.79.29.221
+0 8 8 29126 1 1393049535
+- 0 0
+180.246.79.183
+0 33 29 165008 1 1393092922
+- 0 0
+114.79.29.224
+0 21 20 38020 1 1393054274
+- 0 0
+10.11.0.72
+0 10 10 31993 1 1393061075
+- 0 0
+114.79.28.59
+0 7 7 5617 1 1393056711
+- 0 0
+66.249.77.27
+0 5 3 6366 2 1393086699
+- 0 0
+198.148.26.1
+0 2 2 5516 1 1391259290
+- 0 0
+202.67.40.18
+0 9 9 30281 1 1392991836
+- 0 0
+202.67.40.23
+0 18 17 55268 1 1391256163
+- 0 0
+202.67.40.24
+0 45 39 123256 1 1393004820
+- 0 0
+75.98.9.250
+0 1 1 1659 1 1391258187
+- 0 0
+207.182.143.146
+0 1 1 2808 1 1391317401
+- 0 0
+82.145.216.7
+0 26 25 155029 1 1393132201
+/c_nilai 0 0
+180.246.104.246
+0 53 49 221316 1 1391262023
+- 0 0
+10.21.0.83
+0 12 11 33065 1 1393079421
+- 0 0
+66.249.64.10
+0 2 1 2472 1 1391282251
+- 0 0
+125.166.237.243
+0 42 40 213679 1 1391258265
+- 0 0
+114.79.18.158
+0 16 15 36297 1 1391268276
+- 0 0
+114.79.17.29
+0 34 34 199708 1 1391255810
+- 0 0
+# End Of Table - sites (monthly)
+# -sites- (daily)
+82.145.216.7
+0 26 25 155029 1 1393132201
+/c_nilai 0 0
+# End Of Table - sites (daily)
+# -referrers- 
+http://portalkkn.umk.ac.id/c_profil
+1 12
+- (Direct Request)
+0 93
+http://portalkkn.umk.ac.id/c_pengumuman
+1 14
+http://portalkkn.umk.ac.id/c_pilihlokasi
+1 4
+http://portalkkn.umk.ac.id/css/login.css
+1 45
+http://portalkkn.umk.ac.id/c_kelompok
+1 11
+http://portalkkn.umk.ac.id/
+1 59
+http://portalkkn.umk.ac.id/c_jadwal
+1 4
+http://id.search.yahoo.com/search
+0 1
+http://www.google.com/url
+0 2
+http://portalkkn.umk.ac.id/verifylogin
+1 14
+http://portalkkn.umk.ac.id/c_nilai
+1 26
+http://portalkkn.umk.ac.id/c_welcome
+1 105
+http://portalkkn.umk.ac.id/css/style.css
+1 12
+http://portalkkn.umk.ac.id/c_agenda
+1 7
+http://portalkkn.umk.ac.id/c_login
+1 54
+http://portalkkn.umk.ac.id/verifylogin/logout
+1 2
+http://portalkkn.umk.ac.id/c_lokasikkn
+1 4
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 1
+ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.3 (KHTML, like Gecko) Chrome/4.0.223.11 Safari/532.3
+0 12
+Opera/9.80 (Android; Opera Mini/7.5.33361/34.1309; U; en) Presto/2.8.119 Version/11.10
+0 34
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 7
+Mozilla/5.0 (Windows NT 6.1; rv:26.0) Gecko/20100101 Firefox/26.0
+0 114
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 9
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 7
+ContextAd Bot 1.0
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.7) Gecko/20091221 Firefox/3.5.7
+0 8
+Opera/9.80 (Android; Opera Mini/7.0.29737/34.1088; U; en) Presto/2.8.119 Version/11.10
+0 3
+Mozilla/5.0 (Linux; Android 4.2.2; GT-S7270 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Sa
+0 7
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:27.0) Gecko/20100101 Firefox/27.0
+0 30
+niki-bot
+0 1
+Mozilla/5.0 (Symbian/3; Series60/5.3 Nokia500/111.020.0059; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTM
+0 45
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+0 34
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.18) Gecko/20110614 Firefox/3.6.18
+0 33
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6
+0 53
+Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0
+0 37
+Mozilla/5.0 (compatible; NetSeer crawler/2.0; +http://www.netseer.com/crawler.html; crawler@netseer.com)
+0 1
+Mozilla/5.0 (Linux; U; Android 4.1.2; id-id; GT-S6810 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 18
+Mozilla/5.0 (Windows NT 6.1; rv:25.0; WUID=e53b1c425c031f25097f075e27be45c2; WTB=3231) Gecko/20100101 Firefox/25.0
+0 10
+# End Of Table - agents
+# -search strings- 
+portal portal kkn umk
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
